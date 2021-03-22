@@ -3,15 +3,15 @@ Akula Madhu Preethi
 ============
 
 -------------------     ----------------------------
-srnivasarao peta                        madhuakula118@example.com
-Guntur,Andhra Pradesh                       
+srnivasarao peta,                        madhuakula118@gmail.com
+Guntur,Andhra Pradesh ,                      
 India                         9182998708
 -------------------     ----------------------------
 
 Education
 ---------
 
-2019-2023 (expected)
+2019-2023 
 :   ** B-Tech,computer science and business systems**; RVR & JC College Of Engineering (Chowdavaram,Guntur,Andhra Pradesh)
 
 Experience
