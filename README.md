@@ -1,4 +1,5 @@
 # digital_profile
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
